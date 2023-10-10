@@ -28,3 +28,12 @@ let someNumber = undefined
 let stringNumber = String(someNumber)
 
 // console.log(stringNumber);
+
+
+/****** Operations ********/
+
+let val = 3;
+let negVal = -val 
+// console.log(negVal);
+
+console.log(3**4);
